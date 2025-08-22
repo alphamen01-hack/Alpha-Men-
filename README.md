@@ -5,7 +5,7 @@ rich
 
 🔥 Alpha Men
 
-> 🚀 Cyber Security Brute Force Simulation Tool (Academic Project)
+> 🚀 Cyber Security Brute Force Simulation Tool 
 
 
 
@@ -36,7 +36,7 @@ rich
 
 Clone repo:
 
-git clone https://github.com/YOUR_USERNAME/AlphaMen.git
+git clone https://github.com/brute force tool/AlphaMen.git
 cd AlphaMen
 
 Install requirements:
@@ -51,13 +51,6 @@ Run:
 
 python3 alphamen.py
 
-Or set as global command:
-
-sudo mv alphamen.py /usr/local/bin/alphamen
-
-Now run anywhere with:
-
-alphamen
 
 
 ---
