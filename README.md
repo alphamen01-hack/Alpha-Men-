@@ -65,9 +65,9 @@ Enter target URL: http://test.com
 Enter username: admin
 Enter wordlist path: wordlist.txt
 
-[+] Starting brute-force simulation on http://test.com with user 'admin'...
+[+] Starting brute-force simulation on http://yoururl.com with user 'username'...
 🔐 Cracking... ████████████ 100%
-[✔] Success! Password found: secret123
+[✔] Success! Password found: expected password 
 
 
 ---
